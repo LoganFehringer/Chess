@@ -877,3 +877,8 @@ def start():
 ############################################################################
 start()
 
+
+
+#############################################################################\
+#paosborne piChess github (ideas how to have the game run)
+#mDobres MuxTesterly github (set up mux to use with board)
